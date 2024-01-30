@@ -8,6 +8,7 @@ seaborn
 python-box
 pyYAML
 tqdm
+flask_cors
 ensure
 joblib
 types-pyYAML
